@@ -18,7 +18,6 @@ async function getMovie(req, res, next) {
     const response = await fetch(url, {
       headers: { Authorization: process.env.API_KEY },
     });
-    // console.log(response);
     const data = await response.json();
     res.send(data);
   } catch (err) {
