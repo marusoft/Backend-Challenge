@@ -1,0 +1,26 @@
+{
+  "name": "backend-challenge",
+  "version": "1.0.0",
+  "description": "Using Node JS, with express, to create a RESTful API that connects to the lord of the rings API (https://the-one-api.herokuapp.com).",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marusoft/Backend-Challenge.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "node-fetch",
+    "redis",
+    "dotenv"
+  ],
+  "author": "alimi kehinde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marusoft/Backend-Challenge/issues"
+  },
+  "homepage": "https://github.com/marusoft/Backend-Challenge#readme"
+}
