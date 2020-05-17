@@ -4,7 +4,7 @@
   "description": "Using Node JS, with express, to create a RESTful API that connects to the lord of the rings API (https://the-one-api.herokuapp.com).",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
