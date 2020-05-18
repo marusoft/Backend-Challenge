@@ -3,3 +3,5 @@ https://github.com/IdentityServer/IdentityServer3/issues/2716
 https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9
 
 https://medium.com/better-programming/restful-api-design-step-by-step-guide-2f2c9f9fcdbf
+
+https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/
